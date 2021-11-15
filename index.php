@@ -1,9 +1,9 @@
 <?php 
-include "./docs/header.php";
+include "includes/header.php";
 ?>
 
 
 
 <?php 
-include "./docs/footer.php";
+include "includes/footer.php";
 ?>
